@@ -23,7 +23,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 ## 📈 Estatísticas de GitHub
 
-![José Lourenço Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![José Lourenço Neto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piclisambulante&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
 ## 🤖 Vamos Conversar! 🧑‍💻
 
