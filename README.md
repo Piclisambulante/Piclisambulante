@@ -11,7 +11,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 ## 🛠️ Minhas Habilidades
 
-- **Linguagens de Programação:** Python, C#, Java
+- **Linguagens de Programação:** Python, C# e Java
 - **Frameworks e Ferramentas:** Flask, Git, GitHub  
 - **Design e Edição:** Filmora, Photoshop, Corel Draw  
 - **Certificados:**  
