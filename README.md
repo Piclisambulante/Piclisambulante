@@ -1,12 +1,12 @@
 # Olá, sou José Lourenço Neto! 👋
 
-### Estudante de **Desenvolvimento** no **Cedup Hermann Hering** | **Back-End** & **Automação** | **Python** & **Flask** 💻
+### Estudante de **Desenvolvimento** no **Cedup Hermann Hering** | **Back-End** & **Automação** 💻
 
 Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialista em automação**. Focado em **resolver problemas** e **criar soluções** eficientes. Quando não estou estudando, estou aprendendo mais sobre **tecnologias emergentes** e **colaborando com projetos** de código aberto.
 
 ## 🌱 Atualmente estou...
 - Explorando o mundo de **automação de processos**.
-- Aprendendo e criando **APIs** poderosas com **Python** e **Flask**.
+- Aprendendo e criando **APIs** poderosas 
 - Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
 
 ## 🛠️ Tech Stack  
@@ -48,7 +48,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 ## 🤖 Vamos Conversar! 🧑‍💻
 
-Você pode me encontrar em vários lugares! Entre em contato ou apenas diga um **olá**!  
+Entre em contato ou apenas diga um **olá**!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-louren%C3%A7o-neto-860470301/)  
 [![E-mail](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:joselourenconeto879@gmail.com)  
@@ -59,5 +59,4 @@ Você pode me encontrar em vários lugares! Entre em contato ou apenas diga um *
 ### 🌍 Vamos Crescer Juntos!  
 Sempre aberto a colaborações em **projetos de código aberto**, **mentorias** e qualquer oportunidade que possa enriquecer minha jornada como desenvolvedor!
 
----
 
