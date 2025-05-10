@@ -18,6 +18,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img scr= "https://img.shields.io/badge/API%20Fast-4479A1?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
 ### Banco de Dados  
