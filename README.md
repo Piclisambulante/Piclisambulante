@@ -26,6 +26,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   <img src="https://img.shields.io/badge/H2%20Database-003366?style=for-the-badge&logo=H2&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white">
+  <img src= "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white0">
 </p>
 
 ### APIs  
