@@ -44,9 +44,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   <img src="https://img.shields.io/badge/Tkinter-00599C?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-## Olá, meu nome é {seu nome}!
-
-### ⚙️ GitHub Analytics
+### ⚙️ GitHub
 
 <table>
   <tr>
