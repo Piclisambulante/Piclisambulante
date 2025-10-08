@@ -21,6 +21,16 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   <img scr= "https://img.shields.io/badge/API%20Fast-4479A1?style=for-the-badge&logo=go&logoColor=white">
 </p>
 
+### Frontend
+<p>
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)">
+  <img src="[https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)">
+  <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
+  
+
+</p>
+
+
 ### Banco de Dados  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
