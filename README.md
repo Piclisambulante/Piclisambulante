@@ -11,11 +11,6 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 ## 🛠️ Tech Stack  
 
-![Snake animation](https://github.com/Piclisambulante/Piclisambulante/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 ### Backend  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -31,8 +26,6 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   <img src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-  
-
 </p>
 
 
@@ -97,9 +90,6 @@ Entre em contato ou apenas diga um **olá**!
 [![E-mail](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:joselourenconeto879@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/salve_zezo/)
 
----
-
-### 🌍 Vamos Crescer Juntos!  
-Sempre aberto a colaborações em **projetos de código aberto**, **mentorias** e qualquer oportunidade que possa enriquecer minha jornada como desenvolvedor!
+![Snake animation](https://github.com/Piclisambulante/Piclisambulante/blob/output/github-contribution-grid-snake.svg)
 
 
