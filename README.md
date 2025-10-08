@@ -11,7 +11,8 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 ## 🛠️ Tech Stack  
 
-![Snake animation](https://github.com/Piclisambulante/Piclisambulante/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/Piclisambulante/Piclisambulante/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
