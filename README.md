@@ -11,6 +11,9 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 ## 🛠️ Tech Stack  
 
+![Snake animation](https://github.com/Piclisambulante/Piclisambulante/blob/output/github-contribution-grid-snake.svg)
+
+
 ### Backend  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
