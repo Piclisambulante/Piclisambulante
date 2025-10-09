@@ -5,10 +5,10 @@
 
 <div align="center">
   
-  <b>`プログラマ`</b>
+  <b>`Hello World!`</b>
   <samp>
       <br>
-      Hi there! I'm <b>Kamilly Medino</b>
+      <b>José Lourenço Neto</b>
   </samp>
 </div>
 
