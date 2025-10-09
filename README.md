@@ -76,7 +76,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/kami_♡-black" />
+  <img src="https://img.shields.io/badge/zézinho />
 </div>
       
 <br>
