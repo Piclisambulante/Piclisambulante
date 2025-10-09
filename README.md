@@ -108,6 +108,10 @@ Entre em contato ou apenas diga um **olá**!
 [![E-mail](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:joselourenconeto879@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/salve_zezo/)
 
-![Snake animation](https://github.com/Piclisambulante/Piclisambulante/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
+</picture>
 
 
