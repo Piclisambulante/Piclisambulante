@@ -1,4 +1,22 @@
 # Olá, sou José Lourenço Neto! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
+
+<br>
+
+<div align="center">
+  
+  <b>`プログラマ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Kamilly Medino</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+<br>
 
 ### Estudante de **Desenvolvimento** no **Cedup Hermann Hering** | **Back-End** & **Automação** 💻
 
