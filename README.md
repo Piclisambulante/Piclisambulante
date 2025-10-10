@@ -25,52 +25,67 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 - Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
 
 ## 🛠️ Tech Stack  
+## 💻 Tech Stack
+
 <div align="center">
-  <table>
+  <table style="border-collapse:collapse; max-width:820px; width:100%;">
     <tr>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>Python
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+             alt="Flask" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">Flask</div>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>Java
+
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+             alt="HTML5" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">HTML</div>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/><br>Flask
+
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+             alt="CSS3" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">CSS</div>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/><br>HTML
-      </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/><br>CSS
-      </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br>PostgreSQL
-      </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40"/><br>SQLite
+
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+             alt="PostgreSQL" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">PostgreSQL</div>
       </td>
     </tr>
+
     <tr>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40"/><br>SQLAlchemy
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+             alt="SQLite" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">SQLite</div>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40"/><br>JSON
+
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"
+             alt="SQLAlchemy" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">SQLAlchemy</div>
       </td>
-      <td align="center" width="80">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/XML_logo.svg" width="40"/><br>XML
+
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"
+             alt="JSON" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">JSON</div>
       </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>Git
-      </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/><br>GitHub
-      </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/><br>VS Code
-      </td>
-      <td align="center" width="80">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/><br>Spring Boot
+
+      <td align="center" width="120" style="padding:10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/XML_logo.svg"
+             alt="XML" width="65" height="65"
+             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
+        <div style="font-size:12px;margin-top:6px;">XML</div>
       </td>
     </tr>
   </table>
