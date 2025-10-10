@@ -1,10 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
 <div align="center">
+  
   <b>`Hello World!`</b>
   <samp>
-    <br>
-    <b>José Lourenço Neto</b>
+      <br>
+      <b>José Lourenço Neto</b>
   </samp>
 </div>
 
@@ -18,86 +19,124 @@
 
 Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialista em automação**. Focado em **resolver problemas** e **criar soluções** eficientes. Quando não estou estudando, estou aprendendo mais sobre **tecnologias emergentes** e **colaborando com projetos** de código aberto.
 
+## 🌱 Atualmente estou...
+- Explorando o mundo de **automação de processos**.
+- Aprendendo e criando **APIs** poderosas 
+- Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
+
+## 🛠️ Tech Stack  
 ## 💻 Tech Stack
 
-<div align="center">
-  <table style="border-collapse:collapse; max-width:820px; width:100%;">
-    <tr>
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-             alt="Flask" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">Flask</div>
-      </td>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <!-- Flask -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="65" height="65" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <!-- JavaScript -->
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <!-- React -->
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+  </tr>
 
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-             alt="HTML5" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">HTML</div>
-      </td>
+  <tr>
+    <td align="center" width="96">
+      <!-- Java -->
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <!-- C# -->
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <!-- HTML -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <!-- CSS -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="CSS" />
+      <br>CSS
+    </td>
+  </tr>
 
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-             alt="CSS3" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">CSS</div>
-      </td>
+  <tr>
+    <td align="center" width="96">
+      <!-- PostgreSQL -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <!-- MySQL -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <!-- SQLite -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="96">
+      <!-- SQLAlchemy -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="65" height="65" alt="SQLAlchemy" />
+      <br>SQLAlchemy
+    </td>
+  </tr>
 
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-             alt="PostgreSQL" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">PostgreSQL</div>
-      </td>
-    </tr>
-
-    <tr>
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-             alt="SQLite" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">SQLite</div>
-      </td>
-
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"
-             alt="SQLAlchemy" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">SQLAlchemy</div>
-      </td>
-
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg"
-             alt="JSON" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">JSON</div>
-      </td>
-
-      <td align="center" width="120" style="padding:10px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/XML_logo.svg"
-             alt="XML" width="65" height="65"
-             style="display:block;margin:0 auto;animation:none;transition:none;-webkit-animation:none;filter:none;" />
-        <div style="font-size:12px;margin-top:6px;">XML</div>
-      </td>
-    </tr>
-  </table>
-</div>
-
+  <tr>
+    <td align="center" width="96">
+      <!-- REST -->
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="65" height="65" />
+      <br>REST
+    </td>
+    <td align="center" width="96">
+      <!-- JSON -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="65" height="65" alt="JSON" />
+      <br>JSON
+    </td>
+    <td align="center" width="96">
+      <!-- XML -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="65" height="65" alt="XML" />
+      <br>XML
+    </td>
+    <td align="center" width="96">
+      <!-- PyAutoGUI -->
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="PyAutoGUI" width="65" height="65" />
+      <br>PyAutoGUI
+    </td>
+  </tr>
+</table>
 ### ⚙️ GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/zézinho-%23ff79c6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/zézinho />
 </div>
-
-<br><br>
-
+      
+<br>
+<br>
+      
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Piclisambulante&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piclisambulante&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br><br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=omni"/>
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=omni"/>
 </div>
+
+
 
 ## 🤖 Vamos Conversar! 🧑‍💻
 
@@ -109,6 +148,6 @@ Entre em contato ou apenas diga um **olá**!
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
 </picture>
