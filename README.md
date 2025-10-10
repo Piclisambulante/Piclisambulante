@@ -1,11 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
 <div align="center">
-  
   <b>`Hello World!`</b>
   <samp>
-      <br>
-      <b>José Lourenço Neto</b>
+    <br>
+    <b>José Lourenço Neto</b>
   </samp>
 </div>
 
@@ -19,12 +18,6 @@
 
 Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialista em automação**. Focado em **resolver problemas** e **criar soluções** eficientes. Quando não estou estudando, estou aprendendo mais sobre **tecnologias emergentes** e **colaborando com projetos** de código aberto.
 
-## 🌱 Atualmente estou...
-- Explorando o mundo de **automação de processos**.
-- Aprendendo e criando **APIs** poderosas 
-- Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
-
-## 🛠️ Tech Stack  
 ## 💻 Tech Stack
 
 <div align="center">
@@ -94,21 +87,17 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 ### ⚙️ GitHub
 
 <div align="center">
-  <img src="https://img.shields.io/badge/zézinho />
+  <img src="https://img.shields.io/badge/zézinho-%23ff79c6?style=for-the-badge" />
 </div>
-      
-<br>
-<br>
-      
+
+<br><br>
+
 <div align="center">
   <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Piclisambulante&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka"/>
   <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piclisambulante&layout=compact&font=Iosevka&langs_count=16&theme=omni"/>
-  <br>
-  <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=omni"/>
+  <br><br>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=omni"/>
 </div>
-
-
 
 ## 🤖 Vamos Conversar! 🧑‍💻
 
@@ -120,6 +109,6 @@ Entre em contato ou apenas diga um **olá**!
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake.svg">
 </picture>
