@@ -25,7 +25,6 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 - Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
 
 ## 🛠️ Tech Stack  
-## 💻 Tech Stack
 
 <table>
   <tr>
@@ -47,11 +46,6 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
       <!-- React -->
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
       <br>React
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
       <!-- Java -->
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
       <br>Java
