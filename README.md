@@ -1,5 +1,4 @@
 
-![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
 
 <div align="center">
   
@@ -9,6 +8,8 @@
       <b>José Lourenço Neto</b>
   </samp>
 </div>
+
+![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
 
 <div align="center" width="100%">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineer+;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
