@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
+
 
 <div align="center">
   
@@ -119,7 +119,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
     </td>
   </tr>
 </table>
-### ⚙️ GitHub
+## ⚙️ GitHub
 
 <div align="center">
   <img src="https://img.shields.io/badge/zézinho />
