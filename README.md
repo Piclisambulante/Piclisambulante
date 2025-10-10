@@ -119,6 +119,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
     </td>
   </tr>
 </table>
+
 ## ⚙️ GitHub
 
 <div align="center">
