@@ -27,7 +27,6 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 - Aprendendo e criando **APIs** poderosas 
 - Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
 
-## 🛠️ Tech Stack  
 ## 💻 Tech Stack
 
 <table>
