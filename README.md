@@ -14,7 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=228B22&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineer+;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-![](https://raw.githubusercontent.com/Piclisambulante/Piclisambulante/main/assets/rick_typing.gif)
+![](https://raw.githubusercontent.com/Piclisambulante/assets/angry-rick-sanchez.gif)
 
 
 <br>
