@@ -15,7 +15,7 @@
 </div>
 
 ![](https://github.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif)
-
+raw.githubusercontent.com/LikemDzokoto/LikemDzokoto/blob/main/source.gif
 <br>
 
 ### Estudante de **Desenvolvimento** no **Cedup Hermann Hering** | **Back-End** & **Automação** 💻
