@@ -132,11 +132,11 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 <br>
       
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Piclisambulante&show_icons=true&count_private=true&rank_icon=github&theme=gruvbox&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piclisambulante&layout=compact&font=Iosevka&langs_count=16&theme=gruvbox"/>
+  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Piclisambulante&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
+  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piclisambulante&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
   <br>
   <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=gruvbox"/>
+  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=gotham"/>
 </div>
 
 
