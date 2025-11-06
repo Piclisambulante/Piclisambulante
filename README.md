@@ -10,14 +10,15 @@
 </div>
 
 
-<div align="center" width="100%">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=b5b1ff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineer+;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</p>
+
+<div align="center">
+  <div style="display: inline-block; padding-left: 60px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtmNjNrbHR5ZzdkMDlkbTQ2aWVubGJ0b3RoNXIzejhjbDhuaWdoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F5hb4n7SLMYO4/giphy.gif" width="500">
+  </div>
 </div>
-
-![Rick typing](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtmNjNrbHR5ZzdkMDlkbTQ2aWVubGJ0b3RoNXIzejhjbDhuaWdoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F5hb4n7SLMYO4/giphy.gif)
-
-
-
 
 <br>
 
