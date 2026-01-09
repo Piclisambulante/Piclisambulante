@@ -36,93 +36,107 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" />
       <br>Python
     </td>
     <td align="center" width="120">
-      <!-- Flask -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="100" height="100" alt="Flask" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" height="100" />
+      <br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="100" height="100" />
+      <br>C#
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100" height="100" />
+      <br>JavaScript
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="100" height="100" />
       <br>Flask
     </td>
     <td align="center" width="120">
-      <!-- JavaScript -->
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="100" height="100" />
-      <br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="100" height="100" />
+      <br>Spring Boot
     </td>
     <td align="center" width="120">
-      <!-- React -->
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="100" height="100" />
+      <br>ASP.NET
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" height="100" />
       <br>React
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <!-- Java -->
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="100" height="100" />
-      <br>Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" height="100" />
+      <br>SQLAlchemy
     </td>
     <td align="center" width="120">
-      <!-- C# -->
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="100" height="100" />
-      <br>C#
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" />
+      <br>PyAutoGUI
     </td>
-    <td align="center" width="120">
-      <!-- HTML -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="120">
-      <!-- CSS -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" alt="CSS" />
-      <br>CSS
-    </td>
+    <td></td>
+    <td></td>
   </tr>
+</table>
 
+
+<table>
   <tr>
     <td align="center" width="120">
-      <!-- PostgreSQL -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" height="100" alt="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" height="100" />
       <br>PostgreSQL
     </td>
     <td align="center" width="120">
-      <!-- MySQL -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" height="100" alt="MySQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" height="100" />
       <br>MySQL
     </td>
     <td align="center" width="120">
-      <!-- SQLite -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" height="100" alt="SQLite" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" height="100" />
       <br>SQLite
     </td>
+    <td></td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
     <td align="center" width="120">
-      <!-- SQLAlchemy -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" height="100" alt="SQLAlchemy" />
-      <br>SQLAlchemy
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" height="100" />
+      <br>REST
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="100" height="100" />
+      <br>JSON
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="100" height="100" />
+      <br>XML
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" />
+      <br>HTML
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <!-- REST -->
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="100" height="100" />
-      <br>REST
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" />
+      <br>CSS
     </td>
-    <td align="center" width="120">
-      <!-- JSON -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="100" height="100" alt="JSON" />
-      <br>JSON
-    </td>
-    <td align="center" width="120">
-      <!-- XML -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="100" height="100" alt="XML" />
-      <br>XML
-    </td>
-    <td align="center" width="120">
-      <!-- PyAutoGUI -->
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="PyAutoGUI" width="100" height="100" />
-      <br>PyAutoGUI
-    </td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </table>
 
