@@ -22,142 +22,119 @@
 
 <br>
 
-### Estudante de **Desenvolvimento** no **Cedup Hermann Hering** | **Back-End** & **Automação** 💻
+### Estudante de **Engenharia de Software** | **Back-End** & **Automação** 💻
 
 Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialista em automação**. Focado em **resolver problemas** e **criar soluções** eficientes. Quando não estou estudando, estou aprendendo mais sobre **tecnologias emergentes** e **colaborando com projetos** de código aberto.
 
 ## 🌱 Atualmente estou...
-- Explorando o mundo de **automação de processos**.
-- Aprendendo e criando **APIs** poderosas 
-- Buscando oportunidades para **aprender** e **colaborar** em projetos **open-source**.
+- Explorando IA aplicada ao back-end em Java com LangChain4j.
 
-## 💻 Tech Stack
+- Criando e evoluindo APIs REST com foco em boas práticas.
 
+- Interessado em colaborar e aprender em projetos open-source.
+
+# ⚡ Tech Stack
+
+### 🧠 Linguagens
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" />
       <br>Python
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="100" />
       <br>Java
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="100" />
       <br>C#
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="100" />
       <br>JavaScript
     </td>
   </tr>
 </table>
 
+### 🧩 Frameworks & Bibliotecas
 
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="100" />
       <br>Flask
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="100" />
       <br>Spring Boot
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="100" />
       <br>ASP.NET
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="100" />
       <br>React
     </td>
   </tr>
-
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="100" />
       <br>SQLAlchemy
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" />
       <br>PyAutoGUI
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
-
+### 🗄️ Bancos de Dados
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100" />
       <br>PostgreSQL
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100" />
       <br>MySQL
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" />
       <br>SQLite
     </td>
-    <td></td>
   </tr>
 </table>
 
-
+### ⚙️ Tecnologias & Padrões
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" height="100" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="100" />
       <br>REST
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="100" />
       <br>JSON
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="100" />
       <br>XML
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100" />
       <br>HTML
     </td>
   </tr>
-
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" height="100" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" />
       <br>CSS
     </td>
-    <td></td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
-
-## ⚙️ GitHub
-
-<div align="center">
-  <img src="https://img.shields.io/badge/zézinho />
-</div>
-      
-<br>
-<br>
-      
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Piclisambulante&show_icons=true&count_private=true&rank_icon=github&theme=gotham&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piclisambulante&layout=compact&font=Iosevka&langs_count=16&theme=gotham"/>
-  <br>
-  <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piclisambulante&theme=gotham"/>
-</div>
-
-
 
 
 
