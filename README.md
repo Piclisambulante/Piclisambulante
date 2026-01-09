@@ -1,5 +1,3 @@
-
-
 <div align="center">
   
   <b>`Hello World!`</b>
@@ -9,9 +7,8 @@
   </samp>
 </div>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=b5b1ff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Software+Engineer+;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=b5b1ff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Software+Engineering+student;I'm+also+a+Designer;Welcome!" alt="Typing SVG"/>
 </p>
 
 <div align="center">
@@ -22,20 +19,16 @@
 
 <br>
 
-### Estudante de **Engenharia de Software** | **Back-End** & **Automação** 💻
+### Software Engineering Student | Back-End & Automation 💻
 
-Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialista em automação**. Focado em **resolver problemas** e **criar soluções** eficientes. Quando não estou estudando, estou aprendendo mais sobre **tecnologias emergentes** e **colaborando com projetos** de código aberto.
-
-## 🌱 Atualmente estou...
-- Explorando IA aplicada ao back-end em Java com LangChain4j.
-
-- Criando e evoluindo APIs REST com foco em boas práticas.
-
-- Interessado em colaborar e aprender em projetos open-source.
+## 🌱 Currently...
+- Exploring **AI applied to back-end development in Java** using **LangChain4j**.
+- Building and evolving **REST APIs** with a focus on best practices.
+- Interested in **learning and collaborating** on **open-source projects**.
 
 # ⚡ Tech Stack
 
-### 🧠 Linguagens
+### 🧠 Languages
 <table>
   <tr>
     <td align="center" width="120">
@@ -57,8 +50,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   </tr>
 </table>
 
-### 🧩 Frameworks & Bibliotecas
-
+### 🧩 Frameworks & Libraries
 <table>
   <tr>
     <td align="center" width="120">
@@ -90,7 +82,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   </tr>
 </table>
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 <table>
   <tr>
     <td align="center" width="120">
@@ -108,7 +100,7 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   </tr>
 </table>
 
-### ⚙️ Tecnologias & Padrões
+### ⚙️ Technologies & Standards
 <table>
   <tr>
     <td align="center" width="120">
@@ -136,11 +128,9 @@ Estou em uma jornada para me tornar um **desenvolvedor back-end** e **especialis
   </tr>
 </table>
 
+## 🤖 Let’s Connect! 🧑‍💻
 
-
-## 🤖 Vamos Conversar! 🧑‍💻
-
-Entre em contato ou apenas diga um **olá**!  
+Feel free to reach out or just say **hello**!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-louren%C3%A7o-neto-860470301/)  
 [![E-mail](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:joselourenconeto879@gmail.com)  
