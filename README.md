@@ -79,6 +79,11 @@
       <img src="https://techstack-generator.vercel.app/python-icon.svg" width="100" />
       <br>PyAutoGUI
     </td>
+    <td align="center" width="120">
+      <img src="https://img.shields.io/badge/LangChain4j-AI%20Framework-blueviolet?style=flat" />
+      <br>LangChain4j
+    </td>
+
   </tr>
 </table>
 
@@ -97,6 +102,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="100" />
       <br>SQLite
     </td>
+    <td align="center" width="120">
+  <img src="https://img.shields.io/badge/H2-Database-blue?style=flat" />
+  <br>H2
+</td>
+
   </tr>
 </table>
 
@@ -125,6 +135,14 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100" />
       <br>CSS
     </td>
+      <td align="center" width="120">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="100" />
+  <br>Postman
+</td>
+  <td align="center" width="120">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="100" />
+    <br>Insomnia
+  </td>
   </tr>
 </table>
 
