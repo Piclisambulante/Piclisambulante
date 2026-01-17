@@ -146,11 +146,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats-rongronggg9.vercel.app/api?username=Piclisambulante&show_icons=true&theme=dark" />
-</p>
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdiasblu/ericdiasblu/output/github-contribution-grid-snake-dark.svg">
